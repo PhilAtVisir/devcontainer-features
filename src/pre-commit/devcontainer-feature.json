@@ -1,0 +1,9 @@
+{
+  "name": "pre-commit",
+  "id": "pre-commit",
+  "version": "1.0.0",
+  "description": "Installs pre-commit, tflint, and checkov",
+  "options": {},
+  "documentationURL": "https://github.com/anthropics/devcontainer-features/tree/main/src/pre-commit",
+  "licenseURL": "https://github.com/anthropics/devcontainer-features/blob/main/LICENSE"
+}
